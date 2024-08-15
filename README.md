@@ -22,6 +22,6 @@ This project is a simple blog application built with Node.js and Express. Users 
 To start the application run:
    node app.js
 ### Features:
-   Home page: displays a list of example predefined blog snippets
-   About page: A simple page about the application
-   Blog Management: View all blogs, single blog, create blog and delete blog
+   - Home page: displays a list of example predefined blog snippets
+   - About page: A simple page about the application
+   - Blog Management: View all blogs, single blog, create blog and delete blog
